@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thegajan
-- 👀 I’m interested in developing and prototyping technology - mainly software, intelligence and IoT.
+- 👀 I’m interested in developing and prototyping technology - mainly software, artificial intelligence and IoT.
 - 🌱 I’m currently learning how to further expand my knowledge and capabilities.
 - 💞️ I’m looking to collaborate on building cool things.
 - 📫 How to reach me thegajan@g.ucla.edu
